@@ -1,6 +1,6 @@
 # Cyber-Projects
 
-Hello everyone, this program is meant to help you remember the several different protocols and what port numbers they are usually found in. Program was writtin in python3 and can either be run in windows or in linux.
+Hello everyone, this program is meant to help you remember the several different protocols and what port numbers they are usually found in. Program was written in python3 and can either be run in windows or in linux.
 
 To run in Linux:
 Python3 must be installed.
@@ -14,3 +14,4 @@ The other way to run the program is by first editing the file and adding _#!/usr
 To run in Windows:
 Python3 must be installed.
 After program is installed, double click it.
+
